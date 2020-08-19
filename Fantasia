@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tinyurl.com/v4efoty" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Abracadabra 1993
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sG-xJmwT3BY0uRN9vg_IrgW36Fu5e9UR/view
+#EXTINF:-1 tvg-logo="https://goo.gl/eBpi5W" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Esquadrão Suicida: Acerto de Contas 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B0bHKR4prMIJQ1UyZ1dsdWcydjg/view
+#EXTINF:-1 tvg-logo="https://goo.gl/qY1VNG" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Esquadrão Suicida 2016
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B0bHKR4prMIJQ1UyZ1dsdWcydjg/view
+#EXTINF:-1 tvg-logo="https://goo.gl/ui73GL" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",WIFI - Ralph - 2019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h_ciS1hDhN0DvppiqkLM7fWtiBW57lxx/view
+#EXTINF:-1 tvg-logo="https://goo.gl/TwjifA" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Zumbilênio: O Parque dos Monstros (2019)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Box7b3JERia4Q680wxisiNJ6DUDtXUUg/view
+#EXTINF:-1 tvg-logo="https://goo.gl/uCM6eP" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Zoo: Uma Amizade Maior que a Vida (2019)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1X5LBX1Qw4m6y4dDqOHrvupysM2Zr3TFK/view
+#EXTINF:-1 tvg-logo="https://goo.gl/FBTvGb" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",A Sereia – Lago dos Mortos 2019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-GWuQXZUmTAWb61yL8W9NnhZWkYJXG8W/view
+#EXTINF:-1 tvg-logo="https://goo.gl/vQxfcL" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Eu Mato Gigantes (2019)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zKmENUfGmN42K7rolZUgn3edUX64qqWm/view
+#EXTINF:-1 tvg-logo="https://goo.gl/pCnUso" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",O Menino Que Queria Ser Rei
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eHnpE6lZAMY-gdgIYQQGLjQyZzU0f53A/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycqn7hyb" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",A Bela e a Fera 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17C8bL-nX7tnmDg7ygTyqWMc-5oi_b4BR/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yblr5ova" group-title="FILMES ATUAIS" pltv-subgroup="FANTASIA",Errementari O Ferreiro e o Diabo 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BkocSaXpEWDYYBUBNibNbCx8-O9cM7ry/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybt9936o" group-title="FILMES ANTIGOS" pltv-subgroup="FANTASIA",A Convençăo das Bruxas 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B79OELLleTxtSjBpdWstNGE3ZDA/view
+#EXTINF:-1 tvg-logo="https://goo.gl/TAZyLN" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e a Pedra Filosofal (2001)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1yBXcmhH3ai4IYL7L8TI6ebl4YNOmfkUP
+#EXTINF:-1 tvg-logo="https://goo.gl/rR3Pf1" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e a Câmara Secreta (2002)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1MCB9EgaOOTAFrWlRs82lCly1Qm0SQHHO
+#EXTINF:-1 tvg-logo="https://goo.gl/cRJDMC" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e o Prisioneiro de Azkaban (2004)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1wZJ3VqLqlcfMc_g79Q4xqwktjq5PjO-a
+#EXTINF:-1 tvg-logo="https://goo.gl/7wrqEg" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e o Cálice de Fogo (2005)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1JNy7KRODAZj1m7dazvXXVtm3VH4WyPcK
+#EXTINF:-1 tvg-logo="https://goo.gl/ctQkPU" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e a Ordem da Fênix (2007)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1NNmxe4-TQuoJV-Q7MnUBT4GjBttr6r8y
+#EXTINF:-1 tvg-logo="https://goo.gl/oxdHjH" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e o Enigma do Príncipe (2009)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1qimu0i5IE7o6A7ywqIeaeB8APxn152Pj
+#EXTINF:-1 tvg-logo="https://goo.gl/WfRT9K" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e as Relíquias da Morte - Parte 1 (2010)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=107N05DjpBXzHYNPaoFIdG6udhkDy15kF
+#EXTINF:-1 tvg-logo="https://goo.gl/zALpnm" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Harry Potter e as Relíquias da Morte - Parte 2 (2010)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1eBteKqdE7PVV1tFkd66520xDnEyuFEkR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSlkBB1.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",O Conto de Natal dos Muppets  1992
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a5InRtAN1l4xgRfXTqdR353L8Rb0WpFI/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HN01spV.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",O Grinch  2000
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iwWbIJLSx-0U1CHgXv9RVJkl2KQsPgAY/view
+#EXTINF:-1 tvg-logo="https://goo.gl/VqZsqk" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Anjos da Noite Underworld - 2003
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1n-OdPCKJx3-WR2aHjph9lqz27UVWuw_X/view
+#EXTINF:-1 tvg-logo="https://goo.gl/rrwkfN" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Anjos da Noite A Evolução - 2006
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vVxqoVM824dMBlPI4MoZH7FTd2g2jfMQ/view
+#EXTINF:-1 tvg-logo="https://goo.gl/WM5icK" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Anjos da Noite 3 A Rebelião - 2009
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DuUkmzJd7XSMfy37G3X8E6uca_D9G0EF/view
+#EXTINF:-1 tvg-logo="https://goo.gl/J9h8Mg" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Anjos da Noite O Despertar - 2013
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IGuqSJCtA4NvlpwDBWma_D9V1JqxbVdY/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpigMB2.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Anjos da Noite - Guerras de Sangue - 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RKzq6kMUzwOm_sZmrFNUKkwv4fE-My72/view
+#EXTINF:-1 tvg-logo="https://goo.gl/aLrw7V" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Capitão Marvel 2019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_a79V2zfXvrVbhOrgfTZxs5Iz_zenynb/view
+#EXTINF:-1 tvg-logo="https://goo.gl/wjc1FX" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",AQUAMAN (2019)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VcYkkyFneVmLWMiB6hjXDmXwAcxKp8Pa/view
+#EXTINF:-1 tvg-logo="https://goo.gl/Xs8KBz" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Animais Fantásticos: Os Crimes de Grindelwald
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12qHhciV8k1Z4uphjDpwP0kFg6Rld2jeX/view
+#EXTINF:-1 tvg-logo="https://goo.gl/SnXWmS" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Da Magia à Sedução
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d1V5WKMxutglB6cV4ZnKW4lBVcngbNJe/view
+#EXTINF:-1 tvg-logo="https://goo.gl/JhjxWN" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Sete Minutos Depois da Meia-Noite (2017) Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B5cw533AQiJdZ1AwdmhPNDE0Q1k/view
+#EXTINF:-1 tvg-logo="https://goo.gl/xaJZPc" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",O RETORNO DE MARY POPPINS 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WnWdCSuGbHIzwzjtjyotEdEyv2hlW-yv/view
+#EXTINF:-1 tvg-logo="https://goo.gl/jZtLw5" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Mulher Maravilha 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GzB1ihACHakGrYEkqaxnWyZIptSlkfwJnw/view
+#EXTINF:-1 tvg-logo="https://goo.gl/PddjpJ" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Hotel Transilvania 3 Ferias Monstruosa
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cmLRja3iWN8iKnIpCHzW2xywFRby43F0/view
+#EXTINF:-1 tvg-logo="https://goo.gl/C9XVPp" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Pantera Negra
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CQmNg5ruuWfsA4Z-0QNcQ5GInSfFz7rB/view
+#EXTINF:-1 tvg-logo="https://goo.gl/ULpzMc" group-title="FILMES GDRIVE" pltv-subgroup="FANTASIA",Homem Aranha - 2002
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RSIkevxaLg9d9dQ6eDjwkc8qP5_JTvBJ/view

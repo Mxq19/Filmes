@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ofZRENS.jpg" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AVENTURA",Os Dez Mandamentos 1956
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GeZHHEWeG6Op2Q6_92tQj-UaBcbvlJ94/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7nchycj" group-title="FILMES ANTIGOS" pltv-subgroup="AVENTURA",Benji Um Căo Desafia a Selva 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6D2JpCJFEOkWnVQNnVjTmJub1E/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y83phco8" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Tumbbad 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pPTs7-cfDFMwNS2YczeHP21TRioyhX6J/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycqkudn5" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Aquaman 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PtTlLxgiyYh_dOTM-lAYcmLcOPx_LeXE/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7fgomy6" group-title="FILMES CLASSICOS" pltv-subgroup="AVENTURA",Ninhos de Cobras 1970
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4t2sdGzo8rpcDdjTzNYa1lrakU/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yyyhzxsw" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",ANIMAIS FANTÁSTICOS E OS CRIMES DE GRINDELWALD 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15zD7UOcK7rc2o1WftbshcwX9MiOaN6Ny/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9mcsjof" group-title="FILMES GDRIVE 2019" pltv-subgroup="AVENTURA", SOLO 2019 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KP-TTLVHfwiKxuVgkoSvyTgqAe-Fwqpt/view
+#EXTINF:-1 tvg-logo="https://www.imdb.com/title/tt0044110/" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AVENTURA",HOMENS DO DESERTO 1951
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q5uEoP7d17IrPRM9T5akqp9yu5Lntbpp/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9aoulx3" group-title="FILMES GDRIVE 2018" pltv-subgroup="ANIMAÇĂO",O BEM AVENTURADO 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RkbtyMvi3maXkowSRFM4zRdIVCgV20EC/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8c4f3tq" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Highlander: O Guerreiro Imortal – 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Wp1LSsvKHvWsr13pFzClBs2Kl0CZTr11/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd22ng8y" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Highlander 2: A Ressurreiçăo – 1991 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SgOrsD4Jd9rmqkxlr09bttjZrHM2EPI9/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8vdkqs3" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Highlander 3: O Feiticeiro – 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mA5_7m8EKFoHIkt8ij7FwnYRgLzFThPy/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7kztxup" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Highlander 4: A Batalha Final – 2000
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11OYiOoh0VanyDu2Y6O49YZbzUQcWhvFM/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydbtftr5" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",00Kid – Um Espiăo Muito Especial  1992 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OyDTOCO6Pqcm6j03ptze2VRtWcHcsAXL/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y85gtdm4" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Jovem de Novo 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VX_6ME6-IVyIqTccr1wmtoNTaQDtnGhD/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydfb4q3p" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Superman 4: Em Busca da Paz 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OCBCRCwwXCyc4vr_DZwvtYQnknUK75g1/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7dydbso" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Superman 3 1983 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11XYXe3vUw4_QGHMz9dbcLKLSr6qGAPTH/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yanr2qzn" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Superman 2: A Aventura Continua 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1o7KITTHTCfF2PFo_wK73DL4M5f8_Tvxm/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8kl88xw" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Superman: O Filme 1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UKHOfMYyaboWPVOQkwcL1jEX-MN9sglF/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y98ffw99" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Os Bárbaros 1987 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YxrJQQZbCKKg_YuokFLwFRNaKZbsAq9M/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaz2326o" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Zenon: A Garota do Século XXI 1999
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1x4EmqNNpncEkd8vx3yGWpSZPePUvjgcy/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZUdn7JD.png" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Popeye 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZDj3Mht9xqfIHYXL9DbqzDu9liX6Q3yU/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8bltslb" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Destino Aventura 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1C-uoMkM7VWK8KwY4CzP08nT_qbBJMRUf/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycwvbtxe" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AVENTURA",A Deusa da Cidade Perdida 1965 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1tu7QCmohdo3LDpPrrqTwbUaPZNx43Pof/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaykc9a3" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Resgate Heróico 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13rqF_27L5iUIzwZr45wkoTS6fYarO9Ah/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSqvEje.png" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AVENTURA",Aladin e a Princesa de Bagdá 1945
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Hvc0jNtwE5CAIKhn5XRADe2KeDlNPvaA/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oxXPCys.png" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Os Heróis Năo Tęm Idade 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1izL6L7QVyA2z3mThXGcGN1Cm_mTJUtYj/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zrKxBVp.png" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Corrida Rumo ao Sol 1996
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17AV3USVqQi63ihcoD9qxJqUFO-APmwG2/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ojE4yi1.png" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Manobra Super Radical 1993 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-ZlYzo4HZoPkmnIXf30KZ8wGdRAw6mLr/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/agM5uhC.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Os Caça-Fantasmas 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NFHkTgcl9dKxJSdTGYVd60FAFaWpUPzd/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rV3T1j.jpg" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AVENTURA",Kim 1950
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gcnpJXAvQAwpFVVxpxFm8zTgB3Kw_99b/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wo4PzyC.jpg" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AVENTURA",Jasăo e o Velo de Ouro 1963
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QYAeCNhQV48ABfyLLHWvuHZ-BAHPV-de/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mS5eBGr.jpg" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AVENTURA",Ali Babá e Os Quarenta Ladrőes 1944
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cAfaTQ3o5j-WRhgvrY32Ug3er9EB7eC7/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3FQbyGV.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Conan, o Bárbaro 1982
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EnQ6RMSMAcKuh62a7S0q3XpGumMflrsO/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jVzKI6i.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Conan, o Destruidor  1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15R4ItJcpyN9hEdSFlY1N0aUL12Eg2JIU/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/imQDnw5.png" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Jovem Demais Para Morrer  1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10jpMk7pFIhsHyKM-P6bnh93ti3vXp9Ui/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CI0t6RB.png" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AVENTURA",Ben-Hur 1959 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bxUAfKO_H59SpAA6bDJGp745SEJM0q4A/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mozIKol.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Os Caça-Fantasmas 2 1989 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VynXHCfyGyoROnuN5PSWO3_D21JyPEwZ/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Okzl1In.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Space Camp – Aventura no Espaço 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18aKtFQUQ0PJSWMIDrlG5xxHDeNw7oxh7/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9qvglqw" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Pixels: O Filme 2015
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B42NH9UkYmLwUndUVGJFOUtzTU0/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybq3f82x" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AVENTURA",O Último dos Moicanos 1992
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0Bz5YqErzhH4DeC1SZGRrSGQ3TXM/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydecdrms" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",A Praia (2000)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RmzzU6TPxwyw8hofGXlDvYfulZ81EQkY/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9oowqkq" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",O Rio Selvagem 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1G2Y0tcPBV7WGrR0e4GJGgX6WP3D2YQRK/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd86hpry" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",F.R.E.D.I. 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15TW75ivRedzd3pGkYrbnMDY3SXXTFJeN/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycz5v6ur" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Fuga Para a Liberdade 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NVRunl-FhMJ2vzVp5-gUcs4BlddTnfqy_A/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb8cqxmz" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Perdido na Fama 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ay2OcbvMfd3U6ptyb8qyDc1NLZU1gaQaGw/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8u6stly" group-title="FILMES SESSĂO DA TARDE" pltv-subgroup="AVENTURA",Os Goonies 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vFNhOxKucxGNz723yf3PQwTwg3fiianB/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7haorwc" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",A Pequena Sereia 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ok-5GgeXn4nevcWATF-vdSR7lPwwzV4nnQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yccdhtwe" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Papillon 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15za58DIwojkRIM_ztXd2dZ_2K77A5w4H/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd22nlnd" group-title="FILMES GDRIVE" pltv-subgroup="AVENTURA",Bohemian Rhapsody 2018 Dublado(Cam )
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eikNgUjP72ukXqF7pTS_jBf5b5ecN6T5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8n679sa" group-title="FILMES SESSĂO DA TARDE" pltv-subgroup="AVENTURA",O Último Dragăo - 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PUF_lHhp0uAxggfHkApQo7H1UcEawr2v/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8v8uhm7" group-title="FILMES ANTIGOS" pltv-subgroup="AVENTURA",Condor Os Mercenários 1991
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TEh8ibsIW8Dd710rzatVyJyLaRmrnnGx/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6uyv2un" group-title="FILMES ANTIGOS" pltv-subgroup="AVENTURA",Clube de Heróis 1991
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZU3eKm2qK8KSbLE0JqFhxGf8iQRlDaUf/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycqkenbh" group-title="FILMES ANTIGOS" pltv-subgroup="AVENTURA",Frankenstein de Mary Shelley 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hXjAWVxBe6ijNQ2m8QB6ep3nHJZZ2EFJ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9fx62rw" group-title="FILMES SESSĂO DA TARDE" pltv-subgroup="AVENTURA",vidas Sem Rumo 1983
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yCd_sSGn9NsaYJ8mMO05Uow9wRS-iTcI/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7b2cole" group-title="FILMES SESSĂO DA TARDE" pltv-subgroup="AVENTURA",A História Sem Fim 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15n0Jl_9y5WcXfsk5LGEoTbSCX6C6sVXV/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9h3rlfv" group-title="FILMES SESSĂO DA TARDE" pltv-subgroup="AVENTURA",Inimigo Meu 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3m7SjtlBfn1TXZqVGJnTWpXTWc/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yatsz38r" group-title="FILMES CLASSICOS" pltv-subgroup="AVENTURA",Tręs Grandes Amigos 1951
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B5lU8y67vRrmeFpWc2xnM3JWS2M/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7qsgu5b" group-title="FILMES SESSĂO DA TARDE" pltv-subgroup="AVENTURA",A joia do Nilo 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2TqMeQhkye0aHJxd2pzQjM2VFE/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7k5pgwz" group-title="FILMES ANTIGOS" pltv-subgroup="AVENTURA",Olhos Que Mentem 1996
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wIJnXGhSkFaXXA_oluOw3l6z9ibyWNF5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yarozsrl" group-title="FILMES ANTIGOS" pltv-subgroup="AVENTURA",Spacehunter: Aventuras na Zona Proibida 1983
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16d696GjIeIRr8nubQZ-asBgx5v4dPCHc/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y99jj7k8" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Cavaleiro Didi e a Princesa Lili 2006
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I96-Vpxl_63tX-jPFYEummyeUQ3cIrZG/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yayhaa47" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Didi O Caçador de Tesouros 2006
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YcQMIv8N9XPEOSeguL1rAjcygiHSOzlW/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7bs8raw" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Didi Quer Ser Criança 2004
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gAYTtqgtSr2ypskbszVti-7iMBjT2C3Q/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6v6pz4y" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Didi O Cúpido Trapalhăo 2003
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13_do0qrWiFfff9nBK_IQfYrizFAwn3Nd/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yajvyyef" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Didi Um Anjo Trapalhăo 2000
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gAUj_XMdIH11bfEWDflziagaOydqKwUQ/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7lgfamx" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Trapalhăo e a Luz Azul 1999
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_kA1hxrkRHMjxvJ36eXA9QNc4LDzaTSG/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8jhcaur" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Simăo O Fantasma Trapalhăo 1998
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18d0auv-rQYXz_EdykHtF_eqVlMjy0VP5/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8sxlqqe" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Noviço Rebelde 1997
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1h0JzyPXYENQrZ5xMcQ7UVlxF1ocK0JAn/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yajfqdau" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes E A Arvore da Juventude 1991
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11qGVN-RLFpm1TwiTrE8_XvfBnD-dKAR3/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y79n7ael" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes Em Uma Escola Atrapalhada 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GSbwbTiyg0cSlCWPZSfRmyI0YihLT4JV/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaf9hmxz" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Mistério de Robin Hood 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17ZWQ6BHUkvknb-X825XyMVGpj_PiHbhx/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9ysmfuz" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes Na Terra dos Monstros 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qeCTFmI_77JMBn_rAVFaHgoh_gQz4Tu4/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc6v2qex" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",A Princesa Xuxa e Os Trapalhőes 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CwhIJXt7CjyZ9gwXXyxEk7rDGARe-dqf/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8q8ckc5" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Heróis Trapalhőes Uma Aventura na Selva 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hHAHBmzRnpAkDRJvKUZzkEwObYzXc37g/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydb7d4qh" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Casamento dos Trapalhőes 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vYQEoa_LTXPqOVSgzY14jswiPAkVTFPP/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y843g6uo" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Fantasmas Trapalhőes 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1k6YfCKX-hRdN5Je-E3eEsRJo3adZimzo/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7bl2bpe" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes no auto da Compadecida 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17UInsJq1_YeMzO9OdASZ-npOdalJt1pz/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yctzf3lp" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes e o Rei do Futebol 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1omTDqFA-1ZQRDTH2IAe900Q_8jaY89eI/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9yfwauq" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes no Reino da Fantasia 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QiyApazfdoF6RH8IjjmL0WP2KikjIEQg/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8p5nu7p" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes no Rabo do Cometa 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gxY7xM3EaejBJeai9hspSbu0Pjs8PnSV/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc3xb67k" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes e o Mágico de Oroz 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1awpIPtj9rmU-vN1TPWq48bUttRHfHO7p/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9bjlels" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",A Filha dos Trapalhőes 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Dbe2CWmjlKGJ5kH0VwH9H54jz9EXmg8v/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb8ootsv" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Trapalhăo na Arca de Noé 1983
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14s97uTHRqmj8gsXm57gbMHI-oTYH4hhl/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7sr9ckk" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Cangaceiro Trapalhăo 1983
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QB9WNg3Z6zv6O5GVI0Iy-5TnLfBItnBS/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7oog2jv" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Atrapalhando a Suate 1983
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nEf4hpwuJWju-prbzj7QKTa5QHtsp79ZRA/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8gmpjwy" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Vagabundos Trapalhőes 1982
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GkR_eYBKZSpJFPtstlHtsB15DprDauh5/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7hw3v3u" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes na Serra Pelada 1982
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cMGtc-ZljvGb_NbiS8t8lXoV9NvCAHXH/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybpyurm7" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Saltimbancos Trapalhőes 1981
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AR27UGKrAL8Gb_99sG00CFvX1QLQUs8D/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7y2sofe" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Mundo Mágico dos Trapalhőes 1981
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MIRSuqv4gUVT40A2ww_RYvWdwiLfJ_aw/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycj6rvry" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Incrivel Monstro Trapalhăo 1981
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_0WFzzpE-wTKS4tMXzfyp91z70Fdvqad/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y87qf2u3" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Tres Mosqueteiros Trapalhőes 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TEwsezZx4n7UbgyXQETqCfIE2PiO7l_f/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydee3ssn" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Rei e os Trapalhőes 1979
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zAfMyttdBTDgNagZ1rogbxYT2QsrApNqZQ/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydgq3xr6" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Cinderelo Trapalhăo 1979
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10suZO0ELLfC9PebgkBmXaPQ1afr6093b/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycnvvzgo" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes na Guerra dos Planetas 1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11Q0KddLSPdgMPNxc1_m3_jRRNf6-ZFTXuA/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7phs9od" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Trapalhăo Nas Minas do Rei Salomăo 1977
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Da1Xjn1PByYB5LBESQv_wndFcDGNsR8QfQ/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya9fomgr" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes no Planalto dos Macacos 1976
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CN2SqKgzI59hiDyAweMHIC3EDuEicwS0/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybfsv63t" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Simbad O Marujo Trapalhăo 1975
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VgjYX3Ir1KRCfsswtS28FpjToRpxezghyA/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y959yqy8" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Trapalhăo na Ilha do Tesouro 1974
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14YdBgL0Mg6JnWYmf0Bgyt-r4m_b2G0FHdA/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y752x7zk" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Robin Hood O Trapalhăo da Floresta 1973
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11l6lzQsH-2TTtTl6qTzQKS3-lIiRmTTj/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8sr567a" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Aladim e a Lâmpada Maravilhosa 1973
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1de8Ce8eXzVIhwSSWhLraatVyoaj4eOaRoQ/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8ordl4q" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Ali Babá e 40 Ladrőes 1972
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YMR_Lqa8dLf8YlPVt2VmSTfiXkcKGnvn8A/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc2kdzsu" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Bonga O Vagabundo 1969
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1e8W6QBYcos3WqfNIkF24m6V7EoufLZFh/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yczlrx3a" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Dois na Lona 1968
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y9nVIs8exnPOMsRU2cM-sPdZu0PQI6IO/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybelov7f" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",A Ilha dos Paqueras 1968
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dZhvx1RvTs_ChcORnisYRIm5sjLpoURGFQ/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybwlg2va" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Adorável Trapalhăo 1967
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jsj9SwNzzyaCfS0qXqDmmqAZlpdhapAV/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y936f6kw" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Na Onda do IęIęIę 1966
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sJiB7RXft_2RGSRbThb699Uo3YCiNBGA/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydzc9tse" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Os Trapalhőes e a Pedra do Tesouro 1965
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17NRFxsFkt0fi-wvC5ayZiEsLTB9r5EAx/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaqh9ewf" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",DIDI E O SEGREDO DOS ANJOS 2014
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ASL4dh5yqWwoMcw949l4UjDBm0wQdfA7/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9qhusb2" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Didi e o Peregrino 2013
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MQ1Am0Ot-NnsGqy6DFS6ubQmowBUQevH/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7ftyqpk" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",O Guerreiro Didi e a Ninja Lili 2008
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aSyr-7d70Hqk7GPS95esENEC13KJqE7I/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd268qu6" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Didi em Poeira em Alto Mar 2008
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1esBBwIuNgsu8jgNTZ62Qx9weBQv7ZChH/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd268qu6" group-title="OS TRAPALHOES FILMES" pltv-subgroup="AVENTURA",Didi em Poeira em Alto Mar 2008
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1esBBwIuNgsu8jgNTZ62Qx9weBQv7ZChH/preview

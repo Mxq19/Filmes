@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tinyurl.com/smrnxb7" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Todo Mundo Em Pânico – 2000
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AsP3fgLT7sJDNM1zOROvM-oVoVqn5FcR/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/vo46u2l" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Todo Mundo Em Pânico 2 – 2001
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BIcErB7AkxpzBT7Dprabccnwn9izrFIu/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/u86mzoa" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Todo Mundo Em Pânico 3 – 2003
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HmNC3GlrXwr3Ggag8X1F1B0w7y4DIY5i/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ry85fuw" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Todo Mundo Em Pânico 4 – 2006
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DxuPL8cnrunkL7OXcYlKA1Lb-fJFzK3V/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FeqIqnN.jpg" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Jogos Mortais – 2004
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12f90a7RRl0qmswt5MaMiobfNnA6W2DJ7/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pd0WH9a.jpg" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Jogos Mortais 2 – 2005
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zqDwuD7OfsE7JxoMsk2xtxzaS0wYU28X/view
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/94/46/88/20331546.jpg" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Jogos Mortais 3 – 2006
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZWDWB4A_bPpT9rewoCJ5Wh5g4ArMqrhc/view
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/80/59/19961734.jpg" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Jogos Mortais 4 – 2007
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q9HlIcGrkEBDp0MDiRWxBx8QvR4tUEKN/view
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/87/08/34/19871843.jpg" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Jogos Mortais 5 – 2008
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KZsmDMrUKLgfeCK_g8fAFMKYlV7wCt6k/view
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/89/77/19962672.jpg" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Jogos Mortais 6 – 2009
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1drU8sBA0W2IIRmFVCsm3D6pY1HG-yc5g/view
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/88/81/45/20005638.jpg" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Jogos Mortais 7 – 2010
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WX-mWcGW2QjdIGKWeQ3vUab5Lnp3oc-9/view
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/11/17/23/57/4731159.jpg" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Jogos Mortais 8 – 2017
+https://tinyurl.com/r4v9nny
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6gso698" group-title="FILMES GDRIVE 2019" pltv-subgroup="SUSPENSE",THE GOLEM 2019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jLH3dZbtIYsJxi3tldrVyCJXBd7u7jc7/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y2cgxn48" group-title="FILMES GDRIVE 2019" pltv-subgroup="SUSPENSE",A Sereia - Lago Dos Mortos 2019 CAM
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UW5IJ7j7v25lG_GWlm3cNExlfoDG-zBd/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8bnqdyf" group-title="FILMES GDRIVE 2018" pltv-subgroup="SUSPENSE",O DOUTRINADOR 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18tT6s-Jh2zVj79bIYqjW6XTnIyDRvFR6/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc6aj8ll" group-title="FILMES GDRIVE 2018" pltv-subgroup="SUSPENSE",UM LUGAR SILENCIOSO 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WOr2KsnbxOAB8XgUqjb5-jERu8iRDaw5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9me7xrz" group-title="FILMES GDRIVE 2018" pltv-subgroup="SUSPENSE",RETROCESSO 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14FJUma3pJXCjyMe7XWiKYBlobNThprrQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9pksqvm" group-title="FILMES GDRIVE 2018" pltv-subgroup="SUSPENSE",QUANDO OS ANJOS DORMEM 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13GkSOcyo29x9SA49PpUvgbPiiUYvszyG/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rpQb0V0.png" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Aterrissagem de Alto Risco 1997
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nZ7J6vcVOLVF1IBX7eat0sPaUYFuVPje/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9ybl85a" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Muse 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JJ8j0JNNU_Rr-j5ouOcAxdvr2_gdg7US/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc7r8443" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",The Place Os Oportunistas 2018 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FDuH_2_jH8QHGKfEOa4tnwQOIVW20ZSI/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wf2d4o" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",O Mistério de Stella 2016 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0ByHdpN2ZgJ_uZ2MyYTdqZ19rbjQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8knm2nv" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Nina Forever 2016 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0By5ljH4uEIgtcnU5N3VpaXJMdG8/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8td8ww7" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Desejo do Corpo 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vmLZDuu5AqhhU02YLPMhYHfdAaTHVbt5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb4kjlsq" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",A Pele Fria 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17IxWLZNFyK-iDNtRPjp5ICqvDQTvGR-3/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y95mz263" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Riddleroom 2016 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B889aeU0SJm0a05qclV5Tnl2bVE/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7ahmmns" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Cidade Louca 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/111YZFzWSqeIoKH4bqFlyE40javMTHvwY/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9cwqrf8" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",O Ataque dos Vermes Malditos 6 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Z3A8KkKoT2pJVQB9MkylA_634ww1oW2n/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y87r8j9j" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Invasão Zumbi 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B-Lm_CZHOb-ceXF1T0xXV0c0Rmc/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7w3sp9p" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Luna Em Busca da Verdade 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xNeJUXZlRnoM6sOdarARkMi2Eq_KaZav/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydx94l75" group-title="FILMES ANTIGOS" pltv-subgroup="SUSPENSE",Amargo Pesadelo 1972
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B_0S_O76Qcu_TWh3dmZ0MkcwMzQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8uhxccc" group-title="FILMES CLASSICOS" pltv-subgroup="SUSPENSE",Alien: O Oitavo Passageiro 1979
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B3T_tRyn5tj9ZmlyRnVFdnAyaWM/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycnw9rh3" group-title="FILMES ANTIGOS" pltv-subgroup="SUSPENSE",A Rede 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_V4Qp-EF2a4X18zNWFIUWMxX0E/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7qut2zb" group-title="FILMES ANTIGOS" pltv-subgroup="SUSPENSE",O Colecionador de Ossos 1999
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/116yQPsgvPvVyCYC9grbCHe7wBMosk51S/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yafowxaw" group-title="FILMES CLASSICOS" pltv-subgroup="SUSPENSE",O Incrivel Homem que Derreteu 1977
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oDZKlecGVe9bT8u2aDPUvTsTttr0zEYB/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7wbrtgy" group-title="FILMES ANTIGOS" pltv-subgroup="SUSPENSE",O Mestre das Ilusões 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ol-uHODd8nwfWGjGuqbxJyI9puiB7lWj/view
+#EXTINF:-1 tvg-logo="https://goo.gl/r4LhBx" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Droga da Sedução 2001
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKRzNKQ0pUUjQzVDA/view
+#EXTINF:-1 tvg-logo="https://goo.gl/NnajG1" group-title="FILMES GDRIVE" pltv-subgroup="SUSPENSE",Vanilla Sky 2001
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_JatFT_TpCKa1MzdE9NSkg3XzQ/view

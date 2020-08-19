@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aYQuce1.png" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",China Girl
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wtiD0tug4Lbz8l5szYCA3EtMfgoM0yiF/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VnsEr0r.jpg" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Proposta Indecente – 1993
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14d1NpQ43v4V5PEf3kwKPvM2HrELgETO0/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7vlYJan.png" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Gotcha! – Uma Arma do Barulho – 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BTzl23wX8sQjdgnOYO9bfEypJd8Qoa6a/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJPgUHc.jpg" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="ROMANCE",Um Raio em Céu Sereno – 1961
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UNxhtAYXmxNjlfMuLj-7jzV2HOrIf2sE/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QivKQcy.jpg" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Instinto Selvagem – 1992 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1obaZcWu3RN__qJZ00SjzRrvxTnqZgL9S/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQA6drY.jpg" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Instinto Selvagem 2: Open Matte – 2006 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UsZ9Do6g2pokIYdKnbGgX77X1O6Gi0Hg/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6ue7knt" group-title="FILMES GDRIVE 2019" pltv-subgroup="ROMANCE",NASCE UMA ESTRELA 2019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13vxLFxk197svG-JXelku6LbyuVU2JXeH/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydbbtojm" group-title="FILMES GDRIVE 2018" pltv-subgroup="ROMANCE", Vidas à Deriva 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16RC2vbpZRhRKOqHFpmUNrcWlr1sXEFMG/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycwf7gzt" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Uma Questão de Classe – 1983
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11YlXOmSAdwr5Itg-051F9qzbd1gce52U/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7watgzh" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Feitiço do Rio 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D8D19HMh0vcqvhKHLMJxflRnYO947RkO/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7l8hwln" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Apostando no Amor 1991
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13e0sLSt_KEh4pyxYzuAOih3U4zEYhqkv/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycekc3kg" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Nove e Meia Semanas de Amor 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15yI5m0lcc1op_jqsqR6Iq9fteg-S2PxQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9mxlswh" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Quando um Homem Ama uma Mulher 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11ORwaKDGRA6lFFqVl_C0aLJ1TJRplZm_/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaabwhju" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Amor do Futuro 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10BfUtMh-s-Ss9AFdt80HdDe2Rt6ekuS5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybve9htz" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Amor Sem Fim 1981
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/187jUCRGWJOws4hg2_htrt0zfQ0X0NDCJ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8lnv626" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Mais Que o Acaso 2000 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jqMuddI8wjom1lWGT5PjNmzUk6xCN60E/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybpbjt2x" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Xanadu 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GrG8E4UvH8R7daLOJvFW-Dy_WcTwKnBn/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yccm8hag" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Desespero por Amor 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gRKe5qM1WVNhVqVS1EXIGNksj8Tc3DU5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya3mv4o3" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Sangue e Areia 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10DOArecs57XQfrntqq0wJJVO0LSxAp9s/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybgrq2fw" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Último Tango em Paris 1972
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Q9LnifjOQIK2E4I-f9fcBc2CWy65cLdI/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7t486hq" group-title="FILMES ATUAIS" pltv-subgroup="ROMANCE",Doentes de Amor 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1v3iTD_fXLO4Wfk6rMLOwWtyvtNQoKsLr/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9hv4qoz" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Surf no Hawaí  1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AwGRJNgiADYKueDpL3cmxTA2ehbrH38F/view
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8164IcH1dBL._SX342_.jpg" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Quem Vai Ficar com Mary? 1998
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ioAb-Fc03_RMcXVtCR8wcyJ1YRganwwv/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGXjJTc.jpg" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Colcha de Retalhos 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1l20qWDS2IaxGmak7694a5BJ7Jxdu-hTE/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Ob4m1i.png" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Yentl 1983
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/107BGFFX5tn_4kw0VF0gkiVFPojdMLkco/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybpcur8g" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",O Jogo da Paixão (1996)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1shy6Rn6NnqZnttM-XMS0e_4IrKs8rnrV/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z8XBsf9.png" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",A Dama e O Assaltante 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B_qHC9YHyMMJDkg49nDlGDN2QNAy-FL7/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb4d8ugf" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",A magia do Luar 2014
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BzY-CK2ueye4M3lLYUVoSk54Rjg/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7u3udex" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Standby 2014 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2wpCUNxmdiHM3ZuVFg5YmdfZDQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3r4khd" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Little Italy 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jVdqPqpYKKtz6qxRVzfFqJdvP7OkMNd2/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yas6usj8" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Os Amantes 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P6JcfCKO9BzZPJ82cnxMusdqjbMW0Lal/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybvqu5rv" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Assassinato às Cegas 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PyjrWk8esTQ0UbDAF852dnKaFukLCvzu/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yatj94z2" group-title="FILMES ANTIGOS" pltv-subgroup="ROMANCE",Mensagem Para Você 1998
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B7hz59R0_v0rSzg2dGR2d3c2dXc/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd9xa7nt" group-title="FILMES ANTIGOS" pltv-subgroup="ROMANCE",Perfeição 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eb82UCD3fVFKy_Drz8wkfyQGLHLPctBO/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycdrunxz" group-title="FILMES CLASSICOS" pltv-subgroup="ROMANCE",Grease 2 Os Tempos da Brilhantina Voltaram 1982
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/198sTTGBqbjIpy3CwH_RBdSojkuInLgi_/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7d2l9u9" group-title="FILMES ANTIGOS" pltv-subgroup="ROMANCE",Jogos Proibidos 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-0guKjLkAwYCZlquMPehsFmitl-RHD0_/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybp9p849" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="ROMANCE",Leg Wisdom Heróis ou Vilões 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B2wpCUNxmdiHLWxUd0VILTZiMVU/view

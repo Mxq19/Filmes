@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/5DfsjXeV6sSToc9oVqn60OXwe20.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Cyborg X
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ke02nzqgVnQi9mb_1KY6UhQnI-1inyzt/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQsaW3f.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Veiculo 19
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bMd3NAP_gFhYy-xaZU9UobjDgBx6P1Kl/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y43kscux" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",OPERAÇÃO OVERLORD 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eoxXfohwOTNiF2dwepdtrZCdqlAyV5C5/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o8nghfO.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Platoon – 1986 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14qZq-6FIxBc1aK0-ZP9xjAqj_-WiOJAw/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yafynk6m" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Ciborgues: Os Heróis Nunca Morrem 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HCa28SILjnLF2HUkCBrwjvZ2rCk-5KN5/view
+#EXTINF:-1 tvg-logo="https://goo.gl/wYEcwg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes E Furiosos 1
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B6lUca-SxBGLRjctUTh4RExWMm8/view
+#EXTINF:-1 tvg-logo="https://goo.gl/b5BVNV" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes E Furiosos 2
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B6lUca-SxBGLMFlpVUIzQS0xQ1U/view
+#EXTINF:-1 tvg-logo="https://goo.gl/6vJGSR" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes E Furiosos 3
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B7Ewwe6dLSd6TmdxamhsQmlSLUU/view
+#EXTINF:-1 tvg-logo="https://goo.gl/3GVhEH" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes E Furiosos 4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B7Ewwe6dLSd6TmdxamhsQmlSLUU/view
+#EXTINF:-1 tvg-logo="https://goo.gl/HSMTDR" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes e Furiosos 5 - Operação Rio
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B8CTXrwnkK4YcXg5Unhub29wSHc/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yFqZE95.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes e Furiosos 6 Versão Estendida
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B2HhJep4zKHwX3MtR0t1RVctVWc/view
+#EXTINF:-1 tvg-logo="https://goo.gl/jRtQVY" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",velozes e furiosos 7
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B-hXWpEMQ9UVVTI5MkNlYkNqYUk/view
+#EXTINF:-1 tvg-logo="https://goo.gl/asQqRU" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Velozes & Furiosos 8
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B0j7RRgVpKSGTEtGVFltamlOaVE/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n5JUha5.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Os Mercenarios 1
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1d1MoTjN1jGKe75hc52s_h7LZzALUb-AR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lIKhue1.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Os Mercenarios 2
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1AS_w1FyqJeg0cPZlWVut4cYV7Hsazbpi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e4qxo9U.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Os Mercenarios 3
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=16E0ujhDTeqhKUslYhSbiZECvM383ynZZ
+#EXTINF:-1 tvg-logo="https://goo.gl/FsXavu" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei (2002)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B6HbV7tlPTNFaWdVYVhTdDJzOTg/view
+#EXTINF:-1 tvg-logo="https://goo.gl/uDwPKs" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 2 - A Saga de um Guerreiro (2007)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1_18N1J9MWlk7cQSZ0MKygVdDREHqwBOB
+#EXTINF:-1 tvg-logo="https://goo.gl/gEd92r" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 3 - Batalha pela Redenção (2012)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B1sBpI-LyYpdTXhMdVBKMjFQRzQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6jo7ly3" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 4 - Na Busca Pelo Poder
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1TpoXshB--C11wZ8dkiQBfxKRsSdtD-8t
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6bmw64x" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Escorpião Rei 5 - O Livro das Almas
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ckm7-Btlqall6QMF8SjPU1Hp9KoJignM/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yahvlmaz" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO", 4: Além da Anarquia 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OyzQzB7sgZ7CzRr9xiGRf3rMIMnHpbEC/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y76bqztx" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Desafio Mortal (1996)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uFiRHI1NomyJ5yyC0pQEW6WY4JnfVUo3/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ulz0zko.png" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Tigre Branco – 1996 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Nn85olQpwSv3lfvsiNpW5gpyGAMAOgGf/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb7ek6u9" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Caçada ao Outubro Vermelho (1990)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17GePJjdo1VEcVWJo-f1dCeuCgclrQJry/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xwmJNrE.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Missão Resgate – 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sK7dq6GMDZFcnuUUPBCgWtnx5GDPJcOu/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaomqmru" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Jurassic Predador
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PkNc6hXtm3apHJazyU1mRv8mRmwDfDD4/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd8sf9tr" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Arranha-Céu: Coragem sem Limites 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Uk2eLVtLccK-XNXEFbcftrCy8rNKp-6e/preview
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTaQaal.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Jade – 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rT1q3dnTyWvR4bfsY1NDds1fg1rMA7rO/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vXSeQsi.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Comando Ryan – 1990 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NDPOWXg0ZIBVV9oXsZoy445mnQYowEYB/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6NsnFjP.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Matador de Aluguel – 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SPG0O3-B4CpCcB-ue4vWth990y9SV8GF/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qyOP7Fs.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Garantia de Morte – 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ez3i8PmaTi4kK7ekqWZzfBxyzQ_BIgQG/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/381hnEh.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Código do Silêncio – 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W-E1koZJhTqz0cn3bg1AEaKgYa3ggpC1/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7bqqayg" group-title="FILMES GDRIVE 2018" pltv-subgroup="AÇÃO",NA CORDA BAMBA 2018 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hn0nA1RuyXWYPYnCPLq0pB4ob-lmRz_l/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycnhpg22" group-title="FILMES GDRIVE 2018" pltv-subgroup="AÇÃO",A JUSTICEIRA 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/149cZ6F2pwV4V5x_0GgKVhNQRRcNgmnpz/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd8uae4z" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Inferno Vermelho (1988)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JRWg0Py-i_NE5v6CzIP81C4aXpVoupUk/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3dwvcp" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Memphis Belle: A Fortaleza Voadora 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17eC0bzFAgwpodeaxfh4R22SC1QqDWhjk/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybz6hkdc" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Predador 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cCuqe-i_tzAw-T-n6WXzxKPC9vvziMrf/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycbra2fk" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Predador 2: A Caçada Continua 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iH18_XsUVt0XORJBsgpsvqIlpqdftXZu/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3rbazf" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Zona de Perigo 2: A Vingança de Reaperb 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1j7j27x-yz3Pjr9APaLjsr1GwUHumFfgO/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y76tc3au" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Perigosas Mas Não Muito 1991 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dc2v53VuqIJIpenFL0oAJOAyQ_L7-NkL/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybmoglle" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Entrega Mortal 1992
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xo2aVAKiaPhrMiEge64hnKAcAUewgDEb/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ya6s5h5q" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Desafio Final 1993
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FVZ2fVwQE-NQ2yT9OEYudFI07UYAUnik/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb3txev9" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Transformers: O Último Cavaleiro 2007
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q8DGnw6_AUm7c2I38nXPaHeq0qz6rVfRMw/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9k9clk6" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Transformers 3: O Lado Oculto da Lua 2011 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1feptGnir4wW_371U3VTkWlsEvLf1cHyTsA/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y85vuxym" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Transformers 4: A Era da Extinção 2014 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zrf0Jgx-WynVoR2ScBUrDhQfojmkJ3L4GA/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydd4hhcl" group-title="FILMES ATUAIS" pltv-subgroup="AÇÃO",A Espada do Imortal 2017 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Bw7Eux3bm0kF-6UTTyS7CzjboaUUgQiH/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7uxlf3l" group-title="FILMES ATUAIS" pltv-subgroup="AÇÃO",Crônicas da Tribo Fantasma 2018 SD
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xgL4osNijxFuz6E-k1dRdjGhoAjFfyd0/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8xacf7d" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Comando Suburbano 1991
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OJLhScMJbzkABhgTagn5za5Jbc-eaaHi/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHjX5BX.jpg" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="AÇÃO",Braddock 3: O Resgate 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1i0RM2fgLMJzLCEebH9ZjiLrIIDvdQIt2/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7zfcoc9" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Assassinos Substitutos 1998
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bxRRaxKsfpYTYKytKg4vVJ1j25JZrfEE/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tBjL1jD.png" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Resgate  1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hRKuHbDnsSThvqw58NakkKEwrey2S5MB/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DlzX0o4.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Corra, Lola, Corra 1998
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rZvLhDmbtre5wb3Nf9Lthhy-Tth6I_s5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7fr3hk8" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Os Cinco Invensiveis 1981
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yOPEb_iPELkNmLw8pNVvrq6cGMnjPrBT/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qO6eViC.png" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",A Balada do Pistoleiro 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MtvdsJ2NMZmtIVeoYMibV_zHfzIeuuij/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wnp7ZBv.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",El Mariachi 1992
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1N2FUxrcHuOIyb4w5L5Ifs1x-13zguCCy/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8gShzgK.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Ultravioleta  2006
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lT_qaPfRJQ76p8gwn2ejaN9gGjsKqgPo/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fp5QOu4.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Motivo justo 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MDkkDa2KDdPItVJW3vfrKzklvWYfhALd/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hb7LDDx.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Kinjite: Desejos Proibidos 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eqxM8JpVHLM7oiUei8yNAHR07NgGt5TQ/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8T7zsS.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Inferno na Estrada 1997
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UZNJa6TrfH9OutQ5lljX6j8ibToo-eZn/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsrbwmS.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Rajada de Fogo 1992
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1l5xmagdcMS40SqKuwR32k6wlvG8TxKWr/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fBJUz2.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Justiça Selvagem 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yp2LyE6qoq5HJx5hbPkhAGajMJZ69tpJ/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrA2YRz.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Era Uma Vez no México 2003
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WT8SzgzaJborpxjP6kCgRC2nTaa8Uoac/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hDnfTN.png" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Justiceiro da Noite 1993
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JPtdmxvF-O9i_T0sUpE9IgycZmn3hjUU/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E5kpoK1.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Con Air: A Rota da Fuga 1997 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pcvPRlgF-zmPBBaZiSUisdMPUQoF_q6V/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kGz9oDY.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Os Profissionais do Extermínio 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xBNUZNCMgSOwqEsdNNLO5wd10xkyqnNS/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f705cVw.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Fuga no Ártico 1993
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1saqS6Kv8xNYahjPElBtXD96GeYp6CRk_/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rFuhtQO.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Olhos de Fogo 1991
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DBN3ZhOhel_5oZn6ICqCxFryJFUoAB65/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AZDXCRE.png" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Guerreiro do Futuro: O Último Guerreiro  1975 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1v39GXPYLGkdd5IALoenX_MP6lm2zLDfH/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7v2j2w4" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Sansão 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dNXOaVLTb0PMhX8VRLyowuUh8gpZ3qyy/preview
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/96/54/49/20474313.jpg" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AÇÃO",O Profissional 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4y9UwivdsABODlrc1RqM3R5ckU/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9klqog7" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Ronin (1998)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xFB9bXokCE-CqIJxvV0ZhI8fCBjLO__T/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc39v2sc" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Lua Sangrenta 1997
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VPj5ZptCIqx1O3DPFVkdAK5tod3JbC6a/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9j7h5au" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Em Nome da Vingança 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M1vw2KRhmuOjjIP7Vz_7uO8Xv8kVwbtR/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5NYKIAZ.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Projeto China  1983
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YfB93gmrVOlIYUx01zKG_Zv_W5hUh-QX/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LqZBrfz.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Projeto China 2: A Vingança  1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Uf0FC7OmwmcodjpLbK-M3bMkzu6Xc9MC/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ZTBh03.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Rambo: Programado Para Matar 1982 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r8Q1REJqB4hh8ACvX2TjHFe-2SPbki99/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2H19WT0.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Rambo 2: A Missão  1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ciXrJp7GDI7QawzLTvFmK4DNjIVbc5By/view
+#EXTINF:-1 tvg-logo="https://goo.gl/MYzMAF" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Rambo 3
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1M-oIGWsU6GgBS5-WYaKzpWArrM_0a7nc/view
+#EXTINF:-1 tvg-logo="https://goo.gl/7xUHnN" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Rambo 4
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1n5r-ZrebvGKrIWd39nv5Kx4tCJyfrBfo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x86Ixvd.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Coração de Dragão  1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lZZMbwK6G6B9_O1djBm67W3UQ3wOy6s_/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOmNlYk.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Detonando em Barcelona – 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SzWSzwkeYROM6Ud_jZ6fgzdCIfvJcI-H/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuvbFQG.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Arrebentando em Nova York 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dNThpAUpuZtAx3CIhb54d4OIIkxnGe1A/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jefVlSs.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Dragões em Dose Dupla  1992
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ga8BN2s70j-uUoSoQqYCAaa2-ryWaqYi/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7fklcz4" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Bumblebee 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10iRfnVfDhkbvJg0CGjxcer7joofCZBsv/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yad96k43" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Speed.Kills 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZHDloObiERaBdvnA-GXaMJssRjssLPuS/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7jaguwf" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",The Immortal Wars 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17c-AiekR1jVD7dv-AXd_ht_HxP3Mg5YO/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8et4cge" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Watchmen: O Filme 2009
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1A-L-x9HT-J6dqgehrmQbOIWJwyjw_wMgzg/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd3ghvnq" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Traffik Liberdade Roubada 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sahY8tntUcSKEZC6pU2yYlSCmk_RKWn5/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yamesfhn" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Mudança no Jogo 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_e_ycoHBSHKk6JAIX8er7TPM5_q4Tj1j/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb5npf6c" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Kin 2018 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Cd8qa7mIo49q4HBWEUetTELDTdf9S2DC/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycqhnkal" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Illang: A Brigada Lobo 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kxFfHu_zMbO9be0qQffBp5TsY807QG3C/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8b8jdcq" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Meu Ex é um Espião 2018 CAM
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UhUoYpyhb46LX_6COwYPgByz3OeCFzNN/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8rxwj92" group-title="FILMES GDRIVE" pltv-subgroup="ROMANCE",Era uma vez um Casamento 2017 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RseOqScNfVQNiGVMksoxVGzOW5-oRhc1/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybbwjcrh" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Os Vingadores 2012
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lDnCCDakpnY2aJ2V3RGUiB4AKRhncchYZQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycb5nm2m" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Vingadores: Era de Ultron 2015
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B87p0m0KkPANbXZOOFpNTzBBQ0k/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y72xlzgy" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",John Wick Um Novo Dia Para Matar 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1d1KHxCbLr8qMdkVMYJFeMRigQ8jVisp7/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y83l246l" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",John Wick De Volta ao Jogo 2014
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VBJIvVd8AQ9G-Bxquirw39QnELaRlM1e/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8jk5qcy" group-title="FILMES ANTIGOS" pltv-subgroup="AÇÃO",Jogos de Guerra 1983
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3kVhZQ7U7RFWk45SExqSVNyWWM/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y76hv3ut" group-title="FILMES ANTIGOS" pltv-subgroup="AÇÃO",O Quinto Elemento 1997
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pg0MbUEx4Sdp8zCYh5sdkyKw6VFD9gOT/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9a3mdu4" group-title="FILMES ANTIGOS" pltv-subgroup="AÇÃO",Memphis Belle A Fortaleza Voadora 1990
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f2WCfix0jkR9-ekA-LlszJCTLz_sdtUq/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ydgn5lqj" group-title="FILMES CLASSICOS" pltv-subgroup="AÇÃO",Três Dias do Condor 1975
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FNkcoH_1TqqQ1PozTu_60OmBm3kZghag/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybflxd3s" group-title="FILMES ANTIGOS" pltv-subgroup="AÇÃO",Execução Sumária 1986
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1788HB2Xvzu1JoZSwopvFJiT9E2Z7QdTl/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd74ffzj" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="AÇÃO",Superman 4 Em Busca da Paz 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11ByDL0ryqwnjquTeyQf5L0XD5_rX6Gld/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6ucbeb7" group-title="FILMES ANTIGOS" pltv-subgroup="AÇÃO",Tempestade em Ação 1992
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13o_j4u763yjdju4ZVJTsL6itYs3BYiCB/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9jt4eyf" group-title="FILMES ANTIGOS" pltv-subgroup="AÇÃO",O Corruptor 1999
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wZbsjRMng2K1hDCZiN18Qpoh-EenhcIJ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yahaxfbs" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="AÇÃO",Braddock 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aWJNdJtyJXehb0_PFuMbhMHpLcrY6zf3/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yal9wa54" group-title="FILMES SESSÃO DA TARDE" pltv-subgroup="AÇÃO",Braddock 2 1985
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16mb32M_4WjAT3bnR4gFOPJeoXL8p5xpw/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8yy82ep" group-title="FILMES ANTIGOS" pltv-subgroup="AÇÃO",Chefão por Acaso 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZbxxUYjQiSuePxO7TCgDZ6OzSTa-5A4C/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9542nca" group-title="CLÁSSICOS GDRIVE" pltv-subgroup="AÇÃO",Demetrius O gladiador 1954
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B3OiC2I-r5n-SW93NkhLSDlfb28/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iBOMt8g.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",Garras de Louva-a-Deus – 1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10Kd38uUVp4f6AkTSiirELBuvcueVFdcQ/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/faeooyC.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Guarda Costas 1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EkPsE1EbfKBxE0YRKnzbReGYGB7dUPEx/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJEX47Q.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Jovem Mestre do Kung Fu 1979
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PBXqZdiSu4yQ-foVnCygekuK98KoEwA5/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCiHd6K.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Templo do Dragão 1978
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xUeWoK0cjjbVriZXH_S8YuaajeKkpbje/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pd6dBju.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",A Marca do Dragão 1977 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zMlA5HWndIHkWFLQoeoS2i4X_JPn8JXB/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UYo63cj.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",A Vingança do Dragão  1979
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eckVlBzkfh6bOZZMnAySDb9LDHqsllAt/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yjRA9wr.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",A Saga do Dragão : A Luta Final – 1983 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D699nchMk-DwrcFwcFgsnBkpzOT8K7tK/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTFFyU7.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",A Nova Fúria do Dragão 1976
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RSnXBZZo8ZdU2LcZXcLf-5vyUhY0fxSs/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EtrFS04.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Instrutor da Morte  1976
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jXzIg9BesVJfTHCTbAcySQRRQMF1lrcj/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F72MeV7.jpg" group-title="FILMES GDRIVE" pltv-subgroup="AÇÃO",O Mestre Invencível 2 1994
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MQMxTeGH5sXSjeH_SgAlajGLfMg4rwuM/view

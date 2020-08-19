@@ -1,0 +1,60 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/DN85UA" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",De Volta Para o Futuro (1985)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1I55dsLRhWz8b7WH1gym0SqZpq1T7OkwS/view
+#EXTINF:-1 tvg-logo="https://goo.gl/dt7pfE" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",De Volta Para o Futuro II (1989)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4PLpyLHNAtjcVotWHNOdEFkaUE/view
+#EXTINF:-1 tvg-logo="https://goo.gl/BGDVqL" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",De Volta Para o Futuro III (1990)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B4PLpyLHNAtjbGdabENfV0QtMWc/view
+#EXTINF:-1 tvg-logo="https://goo.gl/ouXGrF" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",O Exterminador do Futuro 1984
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B1sBpI-LyYpdeFN3dHpFT01BaFk/view
+#EXTINF:-1 tvg-logo="https://goo.gl/CzzpXo" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",O Exterminador do Futuro 2 - O Julgamento Final
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sWH5ArKAAy7Jw2JU3Ut-UGBrcFXV9KT8/view
+#EXTINF:-1 tvg-logo="https://goo.gl/vo4PSS" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",O Exterminador do Futuro 3 - A Rebelião das Máquinas
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Vh7ywp2gcK74WonlQjlhWmv407fdJ_Il/view
+#EXTINF:-1 tvg-logo="https://goo.gl/wqh4UN" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",O Exterminador do Futuro 4 - A Salvação
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PHLZ9vd-fV2p4VavR2EsxDTsJn1ShSAS/view
+#EXTINF:-1 tvg-logo="https://goo.gl/xNZp1v" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",O Exterminador do Futuro 5 - Gênesis
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aXIBS_Q8AYTmVJh5IBzrul_L7OkXsl_k/view
+#EXTINF:-1 tvg-logo="https://goo.gl/zdhxDX" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Matrix (1999)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SdT-2nrQ3_x_qtvM3lf8tiV54mmemVtb/view
+#EXTINF:-1 tvg-logo="https://goo.gl/UofKuV" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Matrix Reloaded (2003)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OAz-xUiGTZYfBCADmXkHyf4Ul6ZG1R4I/view
+#EXTINF:-1 tvg-logo="https://goo.gl/zFQANJ" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Avatar (2009)
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B650TAEEKLwEVzNKeTE2YVdyS2c/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y3pmzf68" group-title="FILMES GDRIVE 2019" pltv-subgroup="FICÇÃO",ALITA ANJO DE COMBATE 2019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eEFbnguQZPm-i1g9rygXys7CUO67eC3g/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycmhdfvj" group-title="FILMES GDRIVE 2019" pltv-subgroup="FICÇÃO",Replicas 2019 LEG
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Oc_hSd12eslzk5aKH07qOCVgNef6HQM4/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yahp8cz7" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Um Século em 43 Minutos 1979
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/174TBmOkkzYIe2RfnCt6jXWOrqbyaSgPj/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybnlks9h" group-title="FILMES GDRIVE 2019" pltv-subgroup="FICÇÃO",AXL - O CÃO ROBÔ 2019 LEG
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W1UsYLdELmPLfdh-Ksy_d3Xmp-5-jss1/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y976t7u9" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Jornada nas Estrelas: O Filme 1979 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1htrmr8VTK9n8MoaJr0SQPFMXkZ0RXLuE/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9nlv3jn" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Jornada nas Estrelas II: A Ira de Khan 1982
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/141gUN6YZ1fhgJB6BvkYyZb2BifcPIs-O/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybmxhvqm" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Matrix 1999
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VOjzkw9YaA7njgj52upG-C64ruNVsg6g/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7xd53ar" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Matrix Reloaded 2003
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Zx87D2yVu_H6pF1-IgKR54sDdzutB0Aa/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y85jpbaj" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Bodo – Um Robô Genial 1989
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hHt9iYBI0GQI1PiaHZyeEdYbQr-s-N3b/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7hmsjem" group-title="FILMES ATUAIS" pltv-subgroup="FICÇÃO",Onde Está Segunda? 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xPV4ZG-1TsPGvj1gYazh25OQRDSAKOthDQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yabepy8s" group-title="FILMES ATUATS" pltv-subgroup="FICÇÃO",BraveStorm 2017
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/120DEMJIa3u1hSzVUelQjgTUQKNnXYOor/preview
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91XckQekJiL._RI_.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Evolver  O Game da Morte 1995
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1piJ-zLe5dZtr9ADhGBQdxGhDxSEPBi3u/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JIifNB2.jpg" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Missão Saturno 3 1980
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q1BHh8zYNsMkoKc8eI7uAMediHpzZ4xp/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8w7rwrs" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",O Primeiro Homem 2018 CAM 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1J0rkBRCgM1KUJWPpgevuT28STzDm7qLP/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yaqvsany" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Star War Os Ultimo do Jedi 2018 Legendado 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BQhdUQ3uAUL7-dZKXDNJSlqtSb4qIhlJ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yadkuw2m" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Contra o Tempo 2011
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14HuicbBiF8N6UxQKScDY9vdvCOhMn-dg/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y72hc2be" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Weaponized 2016 Legendado
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B5U5txa1YU43QThRb3p5VXdTT0E/view
+#EXTINF:-1 tvg-logo="https://goo.gl/7q7wUk" group-title="FILMES GDRIVE" pltv-subgroup="FICÇÃO",Black Mirror: Bandersnatch 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zakG6UQ9KEWjE6qFSn-JWDsJpNiRkYXB/view

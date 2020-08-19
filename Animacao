@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yd9bwkqz" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",O Príncipe e o Mendigo 2007
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6o0Wt18YqzNZ3ZRMzVpSm5pbk0/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yc5k448c" group-title="FILMES GDRIVE 2019" pltv-subgroup="ANIMAÇÃO", YU-GI-OH! 2019 - O LADO NEGRO DAS DIMENSÕES 2019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cmn7VS3Q_6XatDMVCXiRSntN9hAucova/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ybww4kl9" group-title="FILMES GDRIVE 2019" pltv-subgroup="ANIMAÇÃO",HOMEM-ARANHA NO ARANHAVERSO 2019
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VYORUO6LO0b91u-4KiNJIpSVSPoWPinJ/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yz6eUF9.jpg" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",Akira 1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14WzydHvtrSIQUEjG_YU9h8I9hWyBVR29/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb2axld8" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",O Conto de Natal dos Muppets 1992
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a5InRtAN1l4xgRfXTqdR353L8Rb0WpFI/preview
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otyIL9F.jpg" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",Pateta: O Filme  1995
+https://dc593.4shared.com/img/SAJmpWMHfi/729e866c/dlink__2Fdownload_2FSAJmpWMHfi_3Fsbsr_3D309b178e27e0999dd3c35118c550e75e9fc_26bip_3DMTg5LjI5LjEwMi4xNDU_26lgfp_3D20_26bip_3DMTg5LjI5LjEwMi4xNDU_26bip_3DMTg5LjI5LjEwMi4xNDU/preview.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V6fQirI.jpg" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",Scooby-Doo e a Escola Assombrada  1988
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1u3ZdrpqWHdsAh7IOXqhXjgyio4qTrmNr/view
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLg3XB6.jpg" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",Scooby-Doo e os Irmãos Boo 1987
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BxLl-c-B4sJxRE5DbTd4ZHVfWWM/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yblx4rhh" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",A Abelha Maia O Filme 2016
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B7BQwCUfXt3rS3RKalI0aEFqVU0/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y7uhav5t" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",Pé Pequeno 2018 CAM
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iKvsN4GA-HDyP9hNNSXVvISr6uvQLYtz/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/yb7wznsa" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",Next Gen 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yXEoMlzbUwhwFH6mstGtCyy0uqOkvRQK/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y8635aan" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",Batman vs. Duas-Caras 2018
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xPTTkADx53asBYUp_X-FckdmEsHVC5m5/preview
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycpz3zjs" group-title="FILMES ANTIGOS" pltv-subgroup="ANIMAÇÃO",A Viagem de Chihiro 2001
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B7eZTHhJ5mkGRHNNZ1JQNWdGSkU/view
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/87/90/36/19962735.jpg" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",COMO TREINAR SEU DRAGÃO 1
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zezTFZOWbMIuPmRPL4lhU7mICE68uTdC/view
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/05/27/21/27/291561.jpg" group-title="FILMES GDRIVE" pltv-subgroup="ANIMAÇÃO",COMO TREINAR SEU DRAGÃO 2
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B_h5c5Md422hLV9MNjQ0X0dhYzQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6uejndo" group-title="FILMES GDRIVE 2019" pltv-subgroup="ANIMAÇÃO",COMO TREINAR SEU DRAGÃO 3 2019 CAM
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12N0Ob5s5V0Y_CMKbJyNpJbrO59qYU29O/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9vaacoy" group-title="FILMES GDRIVE 2019" pltv-subgroup="ANIMAÇÃO",O REINO DO SUPERMAN 2019 LEG
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14j_tw-Ag4hJCBHEKl4Qtv6AIRtAmHGMQ/view
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y9gb6akp" group-title="FILMES GDRIVE 2018" pltv-subgroup="ANIMAÇÃO",Godzilla o Devorador de Planetas 2018 
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vKnnVsxOpQ-GxKYaoan6sUV2a76VmxEw/view
