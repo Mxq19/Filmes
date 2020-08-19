@@ -11,6 +11,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]Filmes Variados[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/j6N6UvZ.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Mxq19/Filmes/master/Variados</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Ação[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/nPXJKwV.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Filmes/master/Acao</externallink>
