@@ -1,0 +1,18 @@
+<channels>
+
+<channel>
+<name>[COLOR white][B]Lançamentos[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/qqq6UAr.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Mxq19/Filmes/master/lancm</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[COLOR white][B]Ação[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/nPXJKwV.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Mxq19/Filmes/master/acaom</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
