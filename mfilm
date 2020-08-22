@@ -1,0 +1,827 @@
+<item>
+<title>[COLOR white][B]A Batalha das Ardenas[/COLOR][/B]</title>
+<link>$doregex[mfilm]abatalhadasardenas-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/08/2083868.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Wu Kong – Contra a Ira dos Deuses[/COLOR][/B]</title>
+<link>$doregex[mfilm]wukongcontraairadosdeuses-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/08/uGk95dWcHnAxh7mTm0o5qXQqaGD-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Watchmen – O Filme[/COLOR][/B]</title>
+<link>$doregex[mfilm]watchmen-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2019/11/19873508.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Exterminador: Cavaleiros e Dragões[/COLOR][/B]</title>
+<link>$doregex[mfilm]exterminadorcavaleirosedragoes-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/08/ro7zs4rPRrhdlePR2TieNmm1Gxq-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]A Jornada[/COLOR][/B]</title>
+<link>$doregex[mfilm]ajornada-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/08/kHEOX7ohRs4yCEh4KJy0eKqO3qi-1-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]O Túnel[/COLOR][/B]</title>
+<link>$doregex[mfilm]otunel-dub-1080p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/08/tunnelen27029-1.jpeg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Power[/COLOR][/B]</title>
+<link>$doregex[mfilm]projetopower-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/08/4865389-225x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]A Caçada[/COLOR][/B]</title>
+<link>$doregex[mfilm]acacada-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/08/mDt3GkephI5yrRsEgLfdo3MYxyj-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Assalto ao Banco Central[/COLOR][/B]</title>
+<link>$doregex[mfilm]assaltoaobancocentral-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2018/01/20028716.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Guerreiro da Escuridão[/COLOR][/B]</title>
+<link>$doregex[mfilm]guerreirodaescuridao-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2018/07/248641.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]O Hóspede[/COLOR][/B]</title>
+<link>$doregex[mfilm]ohospede-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/08/images-1-1-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]V de Vingança[/COLOR][/B]</title>
+<link>$doregex[mfilm]vdevinganca-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/01/21050637_20131017235623573-210x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Scarface[/COLOR][/B]</title>
+<link>$doregex[mfilm]scarface1983-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/01/images-7.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]O Homem Mais Procurado do Mundo[/COLOR][/B]</title>
+<link>$doregex[mfilm]ohomemmaisprocuradodomundo-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/20227956.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Atentado em Paris[/COLOR][/B]</title>
+<link>$doregex[mfilm]atentadoemparis-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/12/bastille-day_t99590-202x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Piratas do Caribe – A Maldição do Pérola Negra[/COLOR][/B]</title>
+<link>$doregex[mfilm]perolanegra-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/05/Piratas-do-Caribe-A-Maldicao-do-Perola-Negra-212x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Policial em Apuros 2[/COLOR][/B]</title>
+<link>$doregex[mfilm]policiaisemapuros2-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/09/Policial-em-Apuros-2-Dublado-233x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Rocky, um Lutador[/COLOR][/B]</title>
+<link>$doregex[mfilm]rockyumlutador-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/11/download.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]No Limite do Amanhã[/COLOR][/B]</title>
+<link>$doregex[mfilm]nolimitedoamanha-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/09/LimitedoAmanha-205x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Need for Speed – O Filme[/COLOR][/B]</title>
+<link>$doregex[mfilm]needforspeedofilme-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/128657-204x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Jurassic World: Reino Ameaçado[/COLOR][/B]</title>
+<link>$doregex[mfilm]jurassicworldreinoameacado-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2018/07/4723738.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Jogos Vorazes – Em Chamas[/COLOR][/B]</title>
+<link>$doregex[mfilm]jogosvorazesemchamas-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/21047331_201310071632457-203x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]A Aparição[/COLOR][/B]</title>
+<link>$doregex[mfilm]aaparicao-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/11/095385.jpg-c_300_300_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]211: O Grande Assalto[/COLOR][/B]</title>
+<link>$doregex[mfilm]211ograndeassalto-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2018/07/1010103.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Tolerância Zero[/COLOR][/B]</title>
+<link>$doregex[mfilm]toleranciazero-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/08/4737172.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]O Ultimato Bourne[/COLOR][/B]</title>
+<link>$doregex[mfilm]oultimatobourne-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/01/20208852-211x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]O Exterminador do Futuro: Gênesis[/COLOR][/B]</title>
+<link>$doregex[mfilm]oexterminadordofuturogenesis-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/08/exterminador-do-futuro-genesis-30-min-e-schwarzenegger-1-257x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Guerra ao Terror[/COLOR][/B]</title>
+<link>$doregex[mfilm]guerraaoterror-leg-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/19874211-212x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Fúria de Titãs 2[/COLOR][/B]</title>
+<link>$doregex[mfilm]furiadetitans2-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/09/furia-de-titas-2-dublado-full-hd-1080p-203x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Entre Inimigos[/COLOR][/B]</title>
+<link>$doregex[mfilm]entreinimigos-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/21009978_20130603173932266-212x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Corações de Ferro[/COLOR][/B]</title>
+<link>$doregex[mfilm]coracoesdeferro-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/images-14-1-212x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Código de Conduta[/COLOR][/B]</title>
+<link>$doregex[mfilm]codigodeconduta-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/01/19874134.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]300[/COLOR][/B]</title>
+<link>$doregex[mfilm]300-dub-1080p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/11/300-203x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]300: A Ascensão do Império[/COLOR][/B]</title>
+<link>$doregex[mfilm]300ascensaodoimperio-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/09/300ascensao-205x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]O Grande Herói[/COLOR][/B]</title>
+<link>$doregex[mfilm]ograndeheroi-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/145888.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Independence Day: O Ressurgimento[/COLOR][/B]</title>
+<link>$doregex[mfilm]independencedayoressurgimento-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/01/098589-205x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Jurassic World – O Mundo dos Dinossauros[/COLOR][/B]</title>
+<link>$doregex[mfilm]jurassicworldomundodosdinossauros-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/01/jurassic-world-poster-189x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Os Vingadores[/COLOR][/B]</title>
+<link>$doregex[mfilm]osvingadores-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/12/vingadores-poster-01-203x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]O Último Guerreiro das Estrelas[/COLOR][/B]</title>
+<link>$doregex[mfilm]oultimoguerreirodasestrelas-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/12/The-Last-Starfighter-199x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Policial em Apuros[/COLOR][/B]</title>
+<link>$doregex[mfilm]policialemapuros-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/01/Policial-em-Apuros-XANDAODOWNLOAD-212x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Rambo 2 – A Missão[/COLOR][/B]</title>
+<link>$doregex[mfilm]rambo2amissao-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/10/rambo2.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Sherlock Holmes – O Jogo de Sombras[/COLOR][/B]</title>
+<link>$doregex[mfilm]sherlockholmesojogodassombras-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/10/sherlockholmes2-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Uma Noite Fora de Série[/COLOR][/B]</title>
+<link>$doregex[mfilm]umanoiteforadeserie-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/01/21046241_20131002200332101-204x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Velozes e Furiosos: Desafio em Tóquio[/COLOR][/B]</title>
+<link>$doregex[mfilm]velozesefuriososdesafioemtoquio-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/09/velozes3.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Velozes e Furiosos[/COLOR][/B]</title>
+<link>$doregex[mfilm]velozesefuriosos-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/09/velozes1-203x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]As Tartarugas Ninja – Fora das Sombras[/COLOR][/B]</title>
+<link>$doregex[mfilm]astartarugasninjasforadassombras-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/09/tartarugasforas-192x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Pearl Harbor[/COLOR][/B]</title>
+<link>$doregex[mfilm]pearlharbor-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/12/Pearl-Harbor-Poster-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Eu, Robô[/COLOR][/B]</title>
+<link>$doregex[mfilm]eurobo-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/01/7fdfbc47a67fa616e59c911bdb3e6c79-203x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]A Divisão[/COLOR][/B]</title>
+<link>$doregex[mfilm]adivisao-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/08/0599520.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Sr. e Sra. Smith[/COLOR][/B]</title>
+<link>$doregex[mfilm]senhoresenhorasmith-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/07/20130070.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Um Drink no Inferno[/COLOR][/B]</title>
+<link>$doregex[mfilm]umdrinknoinferno-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/07/images-5-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Tróia[/COLOR][/B]</title>
+<link>$doregex[mfilm]troia-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/07/20096298.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Max Payne[/COLOR][/B]</title>
+<link>$doregex[mfilm]maxpayne2008-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/07/20257312.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]À Prova de Balas 2[/COLOR][/B]</title>
+<link>$doregex[mfilm]aprovadebalas2-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/07/a-prova-de-balas-2-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd-202x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Sobreviver a Noite[/COLOR][/B]</title>
+<link>$doregex[mfilm]sobreviveranoite-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/06/h0rovHa-220x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Anjos da Noite 2: A Evolução[/COLOR][/B]</title>
+<link>$doregex[mfilm]anjosdanoiteaevolucao-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/02/download-4.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Hitman: Agente 47[/COLOR][/B]</title>
+<link>$doregex[mfilm]hitmanagente47-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/02/agent-47-209x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Planeta dos Macacos: O Confronto[/COLOR][/B]</title>
+<link>$doregex[mfilm]planetadosmacacosoconfronto-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/02/planetasmacacopnacional1-203x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]O Ultimo Desafio[/COLOR][/B]</title>
+<link>$doregex[mfilm]oultimodesafio-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/20419682-205x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Imortais[/COLOR][/B]</title>
+<link>$doregex[mfilm]imortais-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/Imortais-211x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Chamada de Emergência[/COLOR][/B]</title>
+<link>$doregex[mfilm]chamadademergencia-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/20520578-205x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]O Besouro Verde[/COLOR][/B]</title>
+<link>$doregex[mfilm]obesouroverde-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/20028699.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]1 Contra Todos: O Filme[/COLOR][/B]</title>
+<link>$doregex[mfilm]1contratodosofilme-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/12/440x660-2-1-contra-todos-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Batman Begins[/COLOR][/B]</title>
+<link>$doregex[mfilm]batmanbegins-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/batman_begins_ver6_zpsad277e1d-225x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Abraham Lincoln: Caçador de Vampiros[/COLOR][/B]</title>
+<link>$doregex[mfilm]abrahamlincolnoacacadordevampiros-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/abrahamlincoln_poster-portugues1-204x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Invasão Zumbi (LEG)[/COLOR][/B]</title>
+<link>$doregex[mfilm]invasaozumbi-leg-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/03/515438-205x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]O Homem de Aço[/COLOR][/B]</title>
+<link>$doregex[mfilm]manofsteel-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/04/Homem-deAco-poster-em-portugues-204x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Quebrando Regras[/COLOR][/B]</title>
+<link>$doregex[mfilm]quebrandoregras-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/12/340414.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Assassino a Preço Fixo 2 – A Ressurreição[/COLOR][/B]</title>
+<link>$doregex[mfilm]assassinoaprecofixo2-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/02/104239-205x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Star Trek: Sem Fronteiras[/COLOR][/B]</title>
+<link>$doregex[mfilm]startreksemfronteiras-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/10/startrek-192x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Max Steel[/COLOR][/B]</title>
+<link>$doregex[mfilm]maxsteel-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/01/max-steel_official-poster_final-203x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Esquadrão Suicida[/COLOR][/B]</title>
+<link>$doregex[mfilm]esquadraosuicida-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/10/Suicide_squad_poster-202x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Deadpool[/COLOR][/B]</title>
+<link>$doregex[mfilm]deadpool-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/08/download-20.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Deadpool 2[/COLOR][/B]</title>
+<link>$doregex[mfilm]deadpool2-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2018/06/2232385.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Capitão América: O Primeiro Vingador[/COLOR][/B]</title>
+<link>$doregex[mfilm]capitaovingador-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/09/capitao1-203x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Ben-Hur[/COLOR][/B]</title>
+<link>$doregex[mfilm]benhur2016-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2016/12/timthumb-192x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Missão Impossível 5 : Nação Secreta[/COLOR][/B]</title>
+<link>$doregex[mfilm]missaoimpossivelnacaosecreta-dub-1080p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/05/448530.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]The Kill Team[/COLOR][/B]</title>
+<link>$doregex[mfilm]thekillteam-dub-1080p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/05/5ea21dfa5c64b_poster-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Ameaça Profunda[/COLOR][/B]</title>
+<link>$doregex[mfilm]ameacaprofunda-dub-1080p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/02/3689762.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Soldado Anônimo: Lei do Retorno[/COLOR][/B]</title>
+<link>$doregex[mfilm]soldadoanonimoaleidoretorno-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/04/aUxk6HPoxmSDkTG9d4y6q8VaReW-214x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Resident Evil: Vendetta (LEG)[/COLOR][/B]</title>
+<link>$doregex[mfilm]residentevilvendettat-leg-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/06/images-34-200x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Power Rangers[/COLOR][/B]</title>
+<link>$doregex[mfilm]powerrangers-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/06/images-6-205x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Transformers: O Lado Oculto da Lua[/COLOR][/B]</title>
+<link>$doregex[mfilm]ladoocultodalua-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/07/transformers3_p6-204x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Homem-Aranha[/COLOR][/B]</title>
+<link>$doregex[mfilm]homemaranha-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/07/spider-man-2002-poster-tobey-maguire-as-spider-man_dcy3.640-203x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]O Espetacular Homem-Aranha 2[/COLOR][/B]</title>
+<link>$doregex[mfilm]oespetacularhomemaranha2-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/04/425460.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Homem-Aranha 3[/COLOR][/B]</title>
+<link>$doregex[mfilm]homemaranha3-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/07/Spider-Man_3-202x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Corrida Mortal[/COLOR][/B]</title>
+<link>$doregex[mfilm]corridamortal-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2020/04/19871381.jpg-c_215_290_x-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Corrida Mortal 2[/COLOR][/B]</title>
+<link>$doregex[mfilm]corridamortal2-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/07/20460435-209x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Conexão Jamaica[/COLOR][/B]</title>
+<link>$doregex[mfilm]conexaojamaica-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/06/21009018_20130528193928815-213x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]CHiPs: O Filme[/COLOR][/B]</title>
+<link>$doregex[mfilm]chipsofilme-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/06/494942-202x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Carga Explosiva – O Legado[/COLOR][/B]</title>
+<link>$doregex[mfilm]cargaexplosivaolegado-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/07/CARGA-EXPLOSIVA-O-LEGADO-169x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B]Carga Explosiva[/COLOR][/B]</title>
+<link>$doregex[mfilm]cargaexplosiva-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://tvfogohdd.github.io/Servidor/mmfilmes</page></regex>
+<thumbnail>https://www.mmfilmes.tv/wp-content/uploads/2017/07/19871159.jpg-r_1280_720-f_jpg-q_x-xxyxx-206x300.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
