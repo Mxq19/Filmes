@@ -1,0 +1,18 @@
+<channels>
+
+<channel>
+<name>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]Lançamentos[/COLOR][/B][/I]</name>
+<thumbnail>https://raw.githubusercontent.com/Mxq19/Filmes/master/LANCAMENTOS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Mxq19/Filmes/master/lancm</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]Ação[/COLOR][/B][/I]</name>
+<thumbnail>https://i.imgur.com/nPXJKwV.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Mxq19/Filmes/master/acaom</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
