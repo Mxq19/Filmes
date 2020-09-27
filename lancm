@@ -3,7 +3,11 @@
 <item>
 <title>[COLOR white][B]Tolerância Zero[/COLOR][/B]</title>
 <link>$doregex[mfilm]toleranciazero-dub-720p.mp4|Referer=https://www.mmfilmes.tv/</link>
-<regex><name>mfilm</name><expres>(.*?).mmf</expres><page><?xml version="1.0" encoding="utf-8"?>
+<regex><name>mfilm</name><expres>(.*?).mmf</expres><page>https://bit.ly/2G37yRF</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/psnx0FmNwAzTwDmR3nRSq6yutby.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
 
 <item>
 <title>[COLOR white][B]Tolerância Zero[/COLOR][/B]</title>
