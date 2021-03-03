@@ -1,12 +1,38 @@
 
+<!DOCTYPE html><html><script>location.href = "https://bit.ly/SITE-OFFICIAL-TVFOGO-HD";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
 <channels>
-</channels>
+
 <channel>
-<name>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]FILMES TOPS VOD[/COLOR][/B][/I]</name>
-<thumbnail>https://raw.githubusercontent.com/Mxq19/...kkk/master/FILMES.png</thumbnail>
-<externallink>http://bit.ly/QUE-BOSTA-HEIM-ENFIOU-TORRENT-NESSE-ADDON-LIXO-SEUS-AI-KKK</externallink>
+<name>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]Lançamentos 2021[COLOR darkorange](DUBLADOS)[/COLOR][/B][/I]</name>
+<thumbnail>https://raw.githubusercontent.com/Mxq19/tvaovivo/master/2021LANC.png</thumbnail>
+<externallink>https://bit.ly/ta-pegando-doacoes-eu-estou-trouxa-chupador-de-rola-kkk</externallink>
 <fanart></fanart>
-<info></info>
+<info>FILMES</info>
+</channel>
+
+<channel>
+<name>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]Filmes 2020 [COLOR darkorange](DUBLADOS)[/COLOR][/B][/I]</name>
+<thumbnail>https://raw.githubusercontent.com/Mxq19/tvaovivo/master/2020LANC.png</thumbnail>
+<externallink>http://bit.ly/QUE-BOSTA-HEIM-ENFIOU-TORRENT-NESSE-ADDON-LIXO-SEUS-AI-KKKKK</externallink>
+<fanart></fanart>
+<info>FILMES</info>
+</channel>
+
+
+
+<channel>
+<name>[I][B][COLOR darkorange]|||[/COLOR][COLOR yellow]|||[/COLOR][COLOR orange]|||[/COLOR] [COLOR red]Ação - Comédia - Romance - Infantil - Guerra [COLOR darkorange](VARIADOS)[/COLOR][/B][/I]</name>
+<thumbnail>https://raw.githubusercontent.com/Mxq19/...kkk/master/FILMES.png</thumbnail>
+<externallink>http://bit.ly/NO-MEU-TEM-LINK-DIRETO-KKK-COPIA-AI-VAGABUNDO</externallink>
+<fanart></fanart>
+<info>FILMES</info>
 </channel>
 
 
